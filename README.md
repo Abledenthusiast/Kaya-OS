@@ -1,5 +1,5 @@
 # Kaya-OS
-An implementation of the Kaya operating system
+An implementation of the Kaya operating system by Alex Fuerst and Aaron Pitman
 
 Wrote a a complete operating system from scratch. The final product, in addition to support a multitude of peripheral devices,
 successfully ran eight concurrent processes, each running in their own virtual address space.
